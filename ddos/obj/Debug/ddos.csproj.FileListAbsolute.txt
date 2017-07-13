@@ -1,0 +1,6 @@
+E:\Projects\Projects\C#\2017\ddos\ddos\bin\Debug\ddos.exe.config
+E:\Projects\Projects\C#\2017\ddos\ddos\bin\Debug\ddos.exe
+E:\Projects\Projects\C#\2017\ddos\ddos\bin\Debug\ddos.pdb
+E:\Projects\Projects\C#\2017\ddos\ddos\obj\Debug\ddos.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\C#\2017\ddos\ddos\obj\Debug\ddos.exe
+E:\Projects\Projects\C#\2017\ddos\ddos\obj\Debug\ddos.pdb

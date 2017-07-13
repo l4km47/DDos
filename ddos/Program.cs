@@ -84,7 +84,6 @@ Devaloped by lakmal");
                         client.DownloadStringAsync(new Uri(_url));
                         Console.WriteLine("sending to " + _url + " " + i);
                         client.Dispose();
-                        N();
                         i++;
                     }
                 }
